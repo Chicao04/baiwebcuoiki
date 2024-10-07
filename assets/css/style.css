@@ -126,7 +126,7 @@ header {
 /* Phần navigation */
 #header_nav .menu {
     display: flex;
-    width: 70%;
+    width: 80%;
     list-style: none;
     /* margin-left: 300px; */
     margin: 0 auto;
